@@ -9,4 +9,4 @@ https://docs.google.com/document/d/1T6upKgsjrmIbEgm1SHfZpb5zPfbYcUYyWt_nLtXD8QI/
 UI UX design:
 https://framer.com/projects/Discover-Local-Artists--lum0PNkNQcr77R18pz9d-2bVt2
 
-We will be Using Python-Djngo
+We will be Using Python-Djngo ( Python Version: 3.8)
